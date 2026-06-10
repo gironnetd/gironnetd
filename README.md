@@ -9,10 +9,6 @@
 
 Welcome to my GitHub profile.
 
-<img src="https://github.com/gironnetd/parcours-de-formations/blob/ios/Realisez%20un%20projet%20libre/screenshots/iphone/screenshot-5.png" alt="Image 1" width="250" style="display:inline-block; margin-right:10px;"> <img src="https://github.com/gironnetd/parcours-de-formations/blob/ios/Reciplease/screenshots/screenshot-3.png" alt="Image 1" width="250" style="display:inline-block; margin-right:10px;"> <img src="https://github.com/gironnetd/parcours-de-formations/blob/ios/Le Baluchon/screenshots/screenshot-1.png" alt="Image 1" width="250" style="display:inline-block; margin-right:10px;">
-
-<img src="https://github.com/gironnetd/parcours-de-formations/blob/android/RealEstateManager/screenshots/portrait/smartphone.png" alt="Image 1" width="250" style="display:inline-block; margin-right:10px;"> <img src="https://github.com/gironnetd/parcours-de-formations/blob/android/Go4Lunch/screenshots/french.png" alt="Image 1" width="250" style="display:inline-block; margin-right:10px;">  <img src="https://github.com/gironnetd/parcours-de-formations/blob/android/MaRéu/screenshots/screenshot-3.png" alt="Image 1" width="250" style="display:inline-block; margin-right:10px;">
-
 ## 🚀 About Me
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -25,6 +21,10 @@ Welcome to my GitHub profile.
 ## 🛠️ Technologies & Tools
 ![Your Badge 1](https://img.shields.io/badge/-Tool1-XXXXXX?style=flat-square&logo=tool1&logoColor=white)
 ![Your Badge 2](https://img.shields.io/badge/-Tool2-XXXXXX?style=flat-square&logo=tool2&logoColor=white)
+
+<img src="https://github.com/gironnetd/parcours-de-formations/blob/ios/Realisez%20un%20projet%20libre/screenshots/iphone/screenshot-5.png" alt="Image 1" width="250" style="display:inline-block; margin-right:10px;"> <img src="https://github.com/gironnetd/parcours-de-formations/blob/ios/Reciplease/screenshots/screenshot-3.png" alt="Image 1" width="250" style="display:inline-block; margin-right:10px;"> <img src="https://github.com/gironnetd/parcours-de-formations/blob/ios/Le Baluchon/screenshots/screenshot-1.png" alt="Image 1" width="250" style="display:inline-block; margin-right:10px;">
+
+<img src="https://github.com/gironnetd/parcours-de-formations/blob/android/RealEstateManager/screenshots/portrait/smartphone.png" alt="Image 1" width="250" style="display:inline-block; margin-right:10px;"> <img src="https://github.com/gironnetd/parcours-de-formations/blob/android/Go4Lunch/screenshots/french.png" alt="Image 1" width="250" style="display:inline-block; margin-right:10px;">  <img src="https://github.com/gironnetd/parcours-de-formations/blob/android/MaRéu/screenshots/screenshot-3.png" alt="Image 1" width="250" style="display:inline-block; margin-right:10px;">
 
 ## 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=default)
