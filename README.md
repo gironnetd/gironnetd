@@ -35,6 +35,8 @@ Welcome to my GitHub profile.
 
 Gratuit et SANS PUB! Toutes les citations et poèmes de www.onelittleangel.com en une seule application. 
 
+<img src="https://github.com/gironnetd/onelittleangel/blob/kotlin-multiplatform/screenshots/appstore/screenshot-3.png" alt="Image 1" width="250" style="display:inline-block; margin-right:10px;"> <img src="https://github.com/gironnetd/onelittleangel/blob/kotlin-multiplatform/screenshots/appstore/screenshot-2.png" alt="Image 1" width="250" style="display:inline-block; margin-right:10px;">  <img src="https://github.com/gironnetd/onelittleangel/blob/kotlin-multiplatform/screenshots/playstore/screenshot-2.png" alt="Image 1" width="250" style="display:inline-block; margin-right:10px;">
+
 Tout l’enseignement et la sagesse de la philosophie et ses différents courants (Aristotélisme, Cartésianisme, Ecole Pythagoricienne, Epicurisme, Kantisme, Platonisme, Stoïcisme, etc.) à travers des centaines de citations et poèmes issus :
 
 Des grands sages de la philosophie:
@@ -48,4 +50,6 @@ Comparez la sagesse de la philosophie avec les grandes religions du monde sur pl
 -- Le karma
 -- La mort
 --  etc.
+
+<img src="https://github.com/gironnetd/onelittleangel/blob/ios/screenshots/tablet/screenshot-2.png" alt="Image 1" width="400" style="display:inline-block; margin-right:10px;"> <img src="https://github.com/gironnetd/onelittleangel/blob/android/bouddhism-en-android-java/screenshots/tablet_10.0_/mail.png" alt="Image 3" width="400" style="display:inline-block;"> <img src="https://github.com/gironnetd/onelittleangel/blob/ios/screenshots/tablet/screenshot-8.png" alt="Image 1" width="400" style="display:inline-block; margin-left:10px;"> <img src="https://github.com/gironnetd/onelittleangel/blob/ios/screenshots/tablet/screenshot-6.png" alt="Image 1" width="400" style="display:inline-block; margin-right:10px;"> 
 
