@@ -26,7 +26,7 @@ Welcome to my GitHub profile.
 
 <img src="https://github.com/gironnetd/Skills/blob/android/diploma/RealEstateManager/screenshots/portrait/smartphone.png" alt="Image 1" width="250" style="display:inline-block; margin-right:10px;"> <img src="https://github.com/gironnetd/Skills/blob/android/diploma/Go4Lunch/screenshots/french.png" alt="Image 1" width="250" style="display:inline-block; margin-right:10px;">  <img src="https://github.com/gironnetd/Skills/blob/android/diploma/MaRéu/screenshots/screenshot-3.png" alt="Image 1" width="250" style="display:inline-block; margin-right:10px;">
 
-<img src="https://github.com/gironnetd/Skills/blob/java/Entreprise%20Edition/Le%20Dépôt%20de%20Yolaine/screenshots/screenshot_10.png" alt="Image 1" width="750" style="display:inline-block; margin-right:10px;"> <img src="https://github.com/gironnetd/Skills/blob/java/Entreprise%20Edition/Le%20Dépôt%20de%20Yolaine/screenshots/screenshot_7.png" alt="Image 1" width="750" style="display:inline-block; margin-right:10px;"> 
+<img src="https://github.com/gironnetd/Skills/blob/java/Entreprise%20Edition/Le%20Dépôt%20de%20Yolaine/screenshots/screenshot_10.png" alt="Image 1" width="800" style="display:inline-block; margin-right:10px;"> <img src="https://github.com/gironnetd/Skills/blob/java/Entreprise%20Edition/Le%20Dépôt%20de%20Yolaine/screenshots/screenshot_7.png" alt="Image 1" width="800" style="display:inline-block; margin-right:10px;"> 
 <br/>
 
 ## 📈 GitHub Stats
